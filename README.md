@@ -1,2 +1,3 @@
 # OCR-with-GoogleCloud
-simple deliverable tool using Google cloud api
+## Simple deliverable tool using Google cloud api
+### The api in this repo is orphaned. It should just be used as an example.
